@@ -5,7 +5,7 @@ const Footer = ({ socialMedia }) => (
     <section className={`${styles.flexCenter} ${styles.paddingY} ${styles.paddingX} px-2 md:text-left text-center flex-col bg-primary`}>
         <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
             <div className="flex-[1] flex flex-col md:justify-start md:mr-10">
-                <section className="flex flex-row gap-0">
+                <div className="flex md:flex-row gap-0 flex-col">
                     <img
                         src={jithson}
                         alt="jithson"
@@ -13,7 +13,11 @@ const Footer = ({ socialMedia }) => (
                     />
                     <img src={m6} alt="" className="w-[70px] h-[70px] rounded-full border hidden md:inline md:mr-10"/>
                     <img src={ananda} alt="" className="w-[70px] h-[70px] hidden md:inline"/>
-                </section>
+                    <section className="flex flex-row gap-2 md:hidden mx-auto pt-4">
+                        <img src={m6} alt="" className="w-[70px] h-[70px] rounded-full border md:mr-10"/>
+                        <img src={ananda} alt="" className="w-[70px] h-[70px]"/>
+                    </section>
+                </div>
                 <p className={`font-poppins font-normal text-dimWhite text-[14px] leading-[30.8px] mt-4 md:max-w-[512px] w-full`}>
                     Sometimes, your expectation might not be happened and might have to face different thing that you have never expected due to any reason. but don’t give up. because the new thing might be the best turning point in your life…..
                 </p>
