@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -58,6 +58,13 @@ export const feedback = [
       title: "Software Engineer at Different",
       img: thilina,
     },
+    {
+      id: "feedback-8",
+      content: "A confident individual who is enthusiastic about problem-solving.",
+      title: "BSC Software Engineering (Hons) UG at UCSC",
+      name: "Dimuthu Dhanushka",
+      img: dimuthu,
+    }
    
   ];
 

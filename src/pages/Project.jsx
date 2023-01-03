@@ -5,14 +5,16 @@ import styles from '../style'
 
 export default function Project() {
   return (
-    <div className={`bg-primary ${styles.flexStart} flex-col`}>
-      <h1 className={`${styles.heading2} text-center`}>Projects</h1>
-      <div className={`${styles.boxWidth}`}>
-        {
-          projects.map((selectedProject, index)=>(
-            <ProjectCard key={index} proj={selectedProject}/>
-          ))
-        }
+    <div className={`bg-primary ${styles.flexStart}`}>
+      <div className='flex flex-col'>
+        <h1 className={`${styles.heading2} text-center`}>Projects</h1>
+        <div className={`${styles.boxWidth}`}>
+          {
+            projects.map((selectedProject, index) => (
+              <ProjectCard key={index} proj={selectedProject} />
+            ))
+          }
+        </div>
       </div>
     </div>
 

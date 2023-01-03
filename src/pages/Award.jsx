@@ -8,7 +8,7 @@ const Award = () => {
     return (
         <div className={`bg-primary ${styles.flexStart}`}>
             <div className='flex flex-col'>
-                <h1 className={`${styles.heading2} text-center`}>Throphies</h1>
+                <h1 className={`${styles.heading2} text-center`}>Trophies</h1>
                 <div className={`${styles.boxWidth}`}>
                     {
                         awards.map((selectedAward, index) => (

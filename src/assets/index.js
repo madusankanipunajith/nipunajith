@@ -57,6 +57,7 @@ import chat from './chat-app.png'
 import m6 from './m6.jpg'
 import ananda from './ananda.png'
 import pathumProduct from './pathum_product.jpg'
+import dimuthu from './dimuthu.jpg'
 
 export {
     jithson,
@@ -117,5 +118,6 @@ export {
     chat,
     m6,
     ananda,
-    pathumProduct
+    pathumProduct,
+    dimuthu
 };
