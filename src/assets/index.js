@@ -58,6 +58,10 @@ import m6 from './m6.jpg'
 import ananda from './ananda.png'
 import pathumProduct from './pathum_product.jpg'
 import dimuthu from './dimuthu.jpg'
+import javab from './java1.PNG'
+import pythonb from './python.PNG'
+import guru from './solutionguru.PNG'
+import wso2b from './wso2.png'
 
 export {
     jithson,
@@ -119,5 +123,9 @@ export {
     m6,
     ananda,
     pathumProduct,
-    dimuthu
+    dimuthu,
+    javab,
+    pythonb,
+    wso2b,
+    guru
 };

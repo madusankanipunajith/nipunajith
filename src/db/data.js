@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -60,7 +60,7 @@ export const feedback = [
     },
     {
       id: "feedback-8",
-      content: "A confident individual who is enthusiastic about problem-solving.",
+      content: "Madusanka Nipuanajith is an undergraduate at UCSC reading for a degree in Computer Science. He is a motivated individual with excellent analytical skills and a strong ability to work effectively in a team. Madusanka is always eager to learn and absorbs new information quickly. He is a driven and focused individual who is committed to achieving his goals.",
       title: "BSC Software Engineering (Hons) UG at UCSC",
       name: "Dimuthu Dhanushka",
       img: dimuthu,
@@ -261,6 +261,13 @@ export const feedback = [
       {img: react},
       {img: php},
       {img: c}
+  ]
+
+  export const badges = [
+    {img: wso2b},
+    {img: javab},
+    {img: pythonb},
+    {img: guru}
   ]
 
   export const emails = [

@@ -1,8 +1,9 @@
 import React from 'react';
 import AwardCard from './../components/AwardCard';
 import styles from '../style';
-import { awards, certificates } from '../db/data';
+import { awards, badges, certificates } from '../db/data';
 import CertificateCard from '../components/CertificateCard';
+import BadgeCard from '../components/BadgeCard';
 
 const Award = () => {
     return (
@@ -24,7 +25,14 @@ const Award = () => {
                         ))
                     }
                 </div>
-                <h1>Badges</h1>
+                <h1 className={`${styles.heading2} text-center pt-5`}>Badges</h1>
+                <div className={`${styles.boxWidth} flex md:flex-row flex-wrap flex-col`}>
+                    {
+                        badges.map((item, index)=>(
+                            <BadgeCard key={index} url={item.img}/>
+                        ))
+                    }
+                </div>
             </div>
         </div>
     );
