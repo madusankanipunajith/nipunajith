@@ -62,6 +62,7 @@ import javab from './java1.PNG'
 import pythonb from './python.PNG'
 import guru from './solutionguru.PNG'
 import wso2b from './wso2.png'
+import thevin from './thevin.jpeg'
 
 export {
     jithson,
@@ -127,5 +128,6 @@ export {
     javab,
     pythonb,
     wso2b,
-    guru
+    guru,
+    thevin
 };

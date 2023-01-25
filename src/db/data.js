@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -64,6 +64,13 @@ export const feedback = [
       title: "BSC Software Engineering (Hons) UG at UCSC",
       name: "Dimuthu Dhanushka",
       img: dimuthu,
+    },
+    {
+      id: "feedback-9",
+      content: "Before I begin, I would like to congratulate you for all the great achievements so far in your life journey. Madushanka is a genuine and humble classmate I met during the A/Ls. He is also a hardworking, energetic and self-motivated person who loves to accept new challenges and is always ready to absorb new knowledge. Apart from studies he was engaged in other extra-curricular activities as well. Finally, wishing you all the best along each step of your journey. Go after your dreams! Make us proud.",
+      title: "BSC Engineering (Hons) at University of Moratuwa",
+      name: "Thevin Jayasekara",
+      img: thevin
     }
    
   ];
