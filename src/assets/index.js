@@ -63,6 +63,9 @@ import pythonb from './python.PNG'
 import guru from './solutionguru.PNG'
 import wso2b from './wso2.png'
 import thevin from './thevin.jpeg'
+import ifs from './ifs-award.jpg'
+import prof from './prof-wimala-jay-award.jpg'
+import uoc from './uoc-award.jpg'
 
 export {
     jithson,
@@ -129,5 +132,8 @@ export {
     pythonb,
     wso2b,
     guru,
-    thevin
+    thevin,
+    ifs,
+    prof,
+    uoc
 };

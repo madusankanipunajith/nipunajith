@@ -22,7 +22,7 @@ const Hero = () => {
                             </div>
                         </div>
                         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                            I am an undergraduate at UCSC and Self-driven and motivated Computer Science student possessing great analytical skills, love to work in team environments. Furthermore, I am a former software engineer (intern) at WSO2
+                            I was an undergraduate at UCSC and Self-driven and motivated Computer Science student possessing great analytical skills, love to work in team environments. Furthermore, I was a former software engineer (intern) at WSO2 and currently working at IFS as a software engineer.
                         </p>
                     </div>
                     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

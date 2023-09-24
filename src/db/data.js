@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -252,6 +252,24 @@ export const feedback = [
       topic:"Director's List Awards (University)",
       img: acedemic,
       description:'I was able to select to the director’s list (called as dean’s list also) in first semester, second semester, third semester and fourth semester. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
+      member:[]
+    },
+    {
+      topic:"IFS Award for the highest GPA in SE",
+      img: ifs,
+      description:'I was able to achieve the IFS Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
+      member:[]
+    },
+    {
+      topic:"Prof Wimala Jayarathna Memorial Award",
+      img: prof,
+      description:'I was able to achieve the Prof Wimala Jayarathna Memorial Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
+      member:[]
+    },
+    {
+      topic:"UOC Award for the best performance in SE",
+      img: uoc,
+      description:'I was able to achieve the UOC Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
       member:[]
     },
 
