@@ -257,20 +257,20 @@ export const feedback = [
     {
       topic:"IFS Award for the highest GPA in SE",
       img: ifs,
-      description:'I was able to achieve the IFS Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
-      member:[]
+      description:'I was able to achieve the IFS Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life. Moreover special thank goes to' ,
+      member:['My Parents', 'Sister', 'Adithya Deshan', 'Kosala Marian', 'Harshana Walpita']
     },
     {
       topic:"Prof Wimala Jayarathna Memorial Award",
       img: prof,
-      description:'I was able to achieve the Prof Wimala Jayarathna Memorial Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
-      member:[]
+      description:'I was able to achieve the Prof Wimala Jayarathna Memorial Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life. Moreover special thank goes to' ,
+      member:['My Parents', 'Sister', 'Adithya Deshan', 'Kosala Marian', 'Harshana Walpita']
     },
     {
       topic:"UOC Award for the best performance in SE",
       img: uoc,
-      description:'I was able to achieve the UOC Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life.' ,
-      member:[]
+      description:'I was able to achieve the UOC Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life. Moreover special thank goes to' ,
+      member:['My Parents', 'Sister', 'Adithya Deshan', 'Kosala Marian', 'Harshana Walpita']
     },
 
   ];
