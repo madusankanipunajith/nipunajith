@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc, member,indimemo } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -7,7 +7,7 @@ export const feedback = [
       content:
         "Madushanka was my intern at WSO2 and during his tenure, he showed that he is a very technically talented engineer. Madushanka is so passionate about learning new things and also he is a quick learner who can take responsibility to see the successful completion of a task. He is a very good team player and any team can depend on him for any complex task with greater confidence.",
       name: "Nadeeshaan Gunasingha",
-      title: "Technical Lead at WSO2( The Mentor of my internship project ) & Author",
+      title: "Former Technical Lead at WSO2( The Mentor of my internship project ) & Author",
       img: nadeeshaan,
     },
     {
@@ -15,7 +15,7 @@ export const feedback = [
       content:
         "Quick leaner. Shows a good attitude. A doer..",
       name: "Dulaj Dilshan",
-      title: "Senior Software Engineer at WSO2",
+      title: "Lead Software Engineer at WSO2",
       img: dulaj,
     },
     {
@@ -61,7 +61,7 @@ export const feedback = [
     {
       id: "feedback-8",
       content: "Madusanka Nipuanajith is an undergraduate at UCSC reading for a degree in Computer Science. He is a motivated individual with excellent analytical skills and a strong ability to work effectively in a team. Madusanka is always eager to learn and absorbs new information quickly. He is a driven and focused individual who is committed to achieving his goals.",
-      title: "BSC Software Engineering (Hons) UG at UCSC",
+      title: "Software Engineer at Creative Software",
       name: "Dimuthu Dhanushka",
       img: dimuthu,
     },
@@ -111,26 +111,31 @@ export const feedback = [
   export const roles = [
     {
       id: "role-1",
-      icon:graduate,
-      title: "Undergraduate(BSC Hons) at UCSC"
+      icon:engineer,
+      title: "SE at IFS (R&D)"
     },
     {
       id: "role-2",
+      icon:graduate,
+      title: "Graduated(BSC Hons) at UCSC"
+    },
+    {
+      id: "role-3",
       icon:engineer,
       title: "Former SE(Intern) at WSO2"
     },
     {
-      id: "role-3",
+      id: "role-4",
       icon:leader,
       title: "Former SAP Team Leader"
     },
     {
-      id: "role-4",
+      id: "role-5",
       icon:instructor,
       title: "FOrmer Math Instructor"
     },
     {
-      id: "role-5",
+      id: "role-6",
       icon:cricketer,
       title: "Softball Cricket Player"
     },
@@ -272,6 +277,12 @@ export const feedback = [
       description:'I was able to achieve the UOC Award in the general convocation 2022. Actually, I think it is a dream of an undergraduate and I was lucky enough to achieve that goal. Therefore, it is also an unforgettable achievement in my life. Moreover special thank goes to' ,
       member:['My Parents', 'Sister', 'Adithya Deshan', 'Kosala Marian', 'Harshana Walpita']
     },
+    {
+      topic:"Best Batsman (Indika Memorial Tournament 2024)",
+      img: indimemo,
+      description:"I was able to obtain the trophy for the best batsman due to the best performance throughout the tournament. It was an amaizing memory in my life and as a team we were able to be the champions in the tournament.",
+      member:[]
+    }
 
   ];
 

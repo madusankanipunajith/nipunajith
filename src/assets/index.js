@@ -66,6 +66,7 @@ import thevin from './thevin.jpeg'
 import ifs from './ifs-award.jpg'
 import prof from './prof-wimala-jay-award.jpg'
 import uoc from './uoc-award.jpg'
+import indimemo from './indika-memorial.jpg'
 
 export {
     jithson,
@@ -135,5 +136,6 @@ export {
     thevin,
     ifs,
     prof,
-    uoc
+    uoc,
+    indimemo
 };
