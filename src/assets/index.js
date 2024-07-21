@@ -67,6 +67,7 @@ import ifs from './ifs-award.jpg'
 import prof from './prof-wimala-jay-award.jpg'
 import uoc from './uoc-award.jpg'
 import indimemo from './indika-memorial.jpg'
+import govindu from './govindu.jpg'
 
 export {
     jithson,
@@ -137,5 +138,6 @@ export {
     ifs,
     prof,
     uoc,
-    indimemo
+    indimemo,
+    govindu
 };

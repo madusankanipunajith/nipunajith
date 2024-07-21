@@ -1,4 +1,6 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc, member,indimemo } from "../assets";
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, 
+  bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
+  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -71,6 +73,12 @@ export const feedback = [
       title: "BSC Engineering (Hons) at University of Moratuwa",
       name: "Thevin Jayasekara",
       img: thevin
+    },
+    {
+      id: "feedback-10",
+      content: "I've had the pleasure of working with Madusanka and he is truly one of the best colleagues I've encountered. They consistently deliver high-quality work on time, and his potential for growth is incredibly exciting.  But what truly sets them apart is his personality. Madusanka is both humble and friendly, fostering a positive and collaborative work environment. His passion for learning new things is inspiring, and his ability to understand and respect others' perspectives makes him a fantastic team player. He is well-organized, dedicated, and a true asset to any team.",
+      title: "Product Specialist at IFS (CIMA/MBA)",
+      img:govindu
     }
    
   ];
@@ -280,8 +288,8 @@ export const feedback = [
     {
       topic:"Best Batsman (Indika Memorial Tournament 2024)",
       img: indimemo,
-      description:"I was able to obtain the trophy for the best batsman due to the best performance throughout the tournament. It was an amaizing memory in my life and as a team we were able to be the champions in the tournament.",
-      member:[]
+      description:"I was able to obtain the trophy for the best batsman due to the best performance throughout the tournament. It was an amaizing memory in my life and as a team we were able to be the champions in the tournament. Here I would like to thank followings.",
+      member:['Organizer of the tournament', 'Nuwan Sameera (C)', 'The Team']
     }
 
   ];
