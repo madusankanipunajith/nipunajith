@@ -78,6 +78,7 @@ export const feedback = [
       id: "feedback-10",
       content: "I've had the pleasure of working with Madusanka and he is truly one of the best colleagues I've encountered. They consistently deliver high-quality work on time, and his potential for growth is incredibly exciting.  But what truly sets them apart is his personality. Madusanka is both humble and friendly, fostering a positive and collaborative work environment. His passion for learning new things is inspiring, and his ability to understand and respect others' perspectives makes him a fantastic team player. He is well-organized, dedicated, and a true asset to any team.",
       title: "Product Specialist at IFS (CIMA/MBA)",
+      name: "Govindu Sithila",
       img:govindu
     }
    
