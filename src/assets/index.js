@@ -68,6 +68,7 @@ import prof from './prof-wimala-jay-award.jpg'
 import uoc from './uoc-award.jpg'
 import indimemo from './indika-memorial.jpg'
 import govindu from './govindu.jpg'
+import anuj from './anuj.jpeg'
 
 export {
     jithson,
@@ -139,5 +140,6 @@ export {
     prof,
     uoc,
     indimemo,
-    govindu
+    govindu,
+    anuj
 };

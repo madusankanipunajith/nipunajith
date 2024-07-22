@@ -1,6 +1,6 @@
 import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, 
   bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
-  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu } from "../assets";
+  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -76,10 +76,17 @@ export const feedback = [
     },
     {
       id: "feedback-10",
-      content: "I've had the pleasure of working with Madusanka and he is truly one of the best colleagues I've encountered. They consistently deliver high-quality work on time, and his potential for growth is incredibly exciting.  But what truly sets them apart is his personality. Madusanka is both humble and friendly, fostering a positive and collaborative work environment. His passion for learning new things is inspiring, and his ability to understand and respect others' perspectives makes him a fantastic team player. He is well-organized, dedicated, and a true asset to any team.",
+      content: "I've had the pleasure of working with Madusanka and he is truly one of the best colleagues I've encountered. He consistently deliver high-quality work on time, and his potential for growth is incredibly exciting.  But what truly sets him apart is his personality. Madusanka is both humble and friendly, fostering a positive and collaborative work environment. His passion for learning new things is inspiring, and his ability to understand and respect others' perspectives makes him a fantastic team player. He is well-organized, dedicated, and a true asset to any team.",
       title: "Product Specialist at IFS (CIMA/MBA)",
       name: "Govindu Sithila",
-      img:govindu
+      img: govindu
+    },
+    {
+      id: "feedback-11",
+      content: "Madusanka is a young, energetic software engineer who has a visionary sense of the endeavours he is expecting to achieve. He is really passionate and enthusiastic about completing any assigned task effectively and holds responsibility and accountability with integrity. He possesses strong potential and capacity to handle situations of various complexity levels in an efficient manner.",
+      title: "Product Specialist at IFS/ Financials Consultant",
+      name: "Anuj Bandara",
+      img: anuj
     }
    
   ];
