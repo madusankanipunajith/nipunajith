@@ -69,6 +69,7 @@ import uoc from './uoc-award.jpg'
 import indimemo from './indika-memorial.jpg'
 import govindu from './govindu.jpg'
 import anuj from './anuj.jpeg'
+import nipunika from './nipunika.jpeg'
 
 export {
     jithson,
@@ -141,5 +142,6 @@ export {
     uoc,
     indimemo,
     govindu,
-    anuj
+    anuj,
+    nipunika
 };

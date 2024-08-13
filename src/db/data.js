@@ -1,6 +1,6 @@
 import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, 
   bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
-  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj } from "../assets";
+  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj, nipunika } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
 
 export const feedback = [
@@ -87,6 +87,13 @@ export const feedback = [
       title: "Product Specialist at IFS/ Financials Consultant",
       name: "Anuj Bandara",
       img: anuj
+    },
+    {
+      id: "feedback-12",
+      content: "Working with Madusanka has been a real privilege for me. He is truly one of the best colleagues I've ever worked with. He always delivers great work on time and is eager to grow and learn more. What makes Madusanka stand out even more is his personality. He is humble and easy to talk to, which makes our team work together really well. He always wants to learn new things, which encourages all of us to improve. Finally I wish all the very best for his journey",
+      title: "Product Specialist at IFS/ Founder at Rafaella",
+      name: "Nipunika Sooriarachchi",
+      img: nipunika
     }
    
   ];
