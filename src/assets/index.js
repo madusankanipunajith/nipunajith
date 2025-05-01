@@ -70,6 +70,8 @@ import indimemo from './indika-memorial.jpg'
 import govindu from './govindu.jpg'
 import anuj from './anuj.jpeg'
 import nipunika from './nipunika.jpeg'
+import lecturer from './lecturer.png'
+import singer from './singer.png'
 
 export {
     jithson,
@@ -93,6 +95,8 @@ export {
     graduate,
     engineer,
     cricketer,
+    lecturer,
+    singer,
     leader,
     instructor,
     profile,
