@@ -1,4 +1,4 @@
-import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, bloodbank, git, birthday, email, 
+import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, singer, lecturer, bloodbank, git, birthday, email, 
   bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
   wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj, nipunika } from "../assets";
 import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
@@ -135,32 +135,42 @@ export const feedback = [
     {
       id: "role-1",
       icon:engineer,
-      title: "SE at IFS (R&D)"
+      title: "SSE at IFS (R&D)"
     },
     {
       id: "role-2",
-      icon:graduate,
-      title: "Graduated(BSC Hons) at UCSC"
+      icon:lecturer,
+      title: "Visiting Lecturer"
     },
     {
       id: "role-3",
+      icon:graduate,
+      title: "Valedictorian at UOC/UCSC"
+    },
+    {
+      id: "role-4",
       icon:engineer,
       title: "Former SE(Intern) at WSO2"
     },
     {
-      id: "role-4",
+      id: "role-5",
       icon:leader,
       title: "Former SAP Team Leader"
     },
     {
-      id: "role-5",
+      id: "role-6",
       icon:instructor,
-      title: "FOrmer Math Instructor"
+      title: "Former Math Instructor"
     },
     {
-      id: "role-6",
+      id: "role-7",
       icon:cricketer,
       title: "Softball Cricket Player"
+    },
+    {
+      id: "role-8",
+      icon:singer,
+      title: "Vocalist"
     },
   ];
 
