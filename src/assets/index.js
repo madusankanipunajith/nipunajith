@@ -72,6 +72,8 @@ import anuj from './anuj.jpeg'
 import nipunika from './nipunika.jpeg'
 import lecturer from './lecturer.png'
 import singer from './singer.png'
+import chatura from './chatura.jpg'
+import mkpl from './mkpl.jpeg'
 
 export {
     jithson,
@@ -147,5 +149,7 @@ export {
     indimemo,
     govindu,
     anuj,
-    nipunika
+    nipunika,
+    chatura,
+    mkpl
 };

@@ -1,7 +1,7 @@
 import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, singer, lecturer, bloodbank, git, birthday, email, 
-  bEmail, location, siyapatha, badminton, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
-  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj, nipunika } from "../assets";
-import { c, html, java, js, php, python, react, sql, web, webFunda } from "./certificates";
+  bEmail, location, siyapatha, badminton, mkpl, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
+  wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj, nipunika, chatura } from "../assets";
+import { c, html, java, js, php, python, react, sql, web, webFunda, ifsBld, ifsWeb, ifsLifeCycle } from "./certificates";
 
 export const feedback = [
     {
@@ -15,13 +15,21 @@ export const feedback = [
     {
       id: "feedback-2",
       content:
-        "Quick leaner. Shows a good attitude. A doer..",
+        "Working with Madusanka was a breath of fresh air due to his strong work ethic and reliability. He consistently delivers high-quality work on time and with great attention to detail. It's rare to come across someone as motivated and enthusiastic, and who consistently goes above and beyond to ensure that the team meets its targets.",
+      name: "Chatura Wijenayake",
+      title: "Senior Software Architect at IFS",
+      img: chatura,
+    },
+    {
+      id: "feedback-3",
+      content:
+        "Quick learner. Shows a good attitude. A doer.",
       name: "Dulaj Dilshan",
       title: "Lead Software Engineer at WSO2",
       img: dulaj,
     },
     {
-      id: "feedback-3",
+      id: "feedback-4",
       content:
         "First and foremost, I'd want to congratulate you on your success and advancement in your career. I had the pleasure of working with Nipunajith at the Sasip institute as a SAP team leader for more than a year. He was organized, efficient and willing to do whatever was needed to get a particular task finished. He was a very honest and dedicated team member with a great attitude and a strong work ethic. He was also a very dependable team player. “Life is filled with unexpected adventures”. As you continue to move on in life and face new events, adventures, and challenges, I wish you the best of luck in all of your future endeavours!",
       name: "Thilanka Rajapaksha",
@@ -29,69 +37,69 @@ export const feedback = [
       img: thilanka,
     },
     {
-      id: "feedback-4",
+      id: "feedback-5",
       content:
         "First, I had wanted to congratulations you on your success in your career. I had the pleasure of working with Nipunajith at the Susipwan institute as a instructor for more than year. He is very charm,patient,innocent,cleverful and very efficient .Not only education he is vey clever at extra curriculum activities such as cricket.He always works neatly .I wish best regards to your future successful",
       name: "Pathum Chirantha",
-      title: "BSC Engineering (Hons) UG at University of Moratuwa",
+      title: "Civil Engineer/ Bsc Engineering (Hons) at University of Moratuwa",
       img: pathum,
-    },
-    {
-      id: "feedback-5",
-      content:
-        "First I like to congratulate your career. You are a good friend that I met in the university. I know you from the school time but we became close friends when we were at the university. Matuared knowledge and the helpfullness is the most special thing I seen from you. I wish you best of luck for your future career.",
-      name: "Harshana Walpita",
-      title: "Software Engineer at IFS",
-      img: harshana,
     },
     {
       id: "feedback-6",
       content:
-        "Firstly I would like to congratulate for advancement of your carrere. I had work with him more than 1 year at 'Susipone' instutute as a instructor. He was very clever, organized, keen to learn any thing, very neat and has lot of encouragement to do something. As a person anyone can work with him without any hesitate. He can handle a team in a betterway because he has such a qualities of team leader. Not only that but also he was clever in programming and IT fields. He is one of a such a humble, straightforward , efficient, honest and dedicated team member in my team. At last I just want to wish you best of luck for your new start in journey. In your life may you get what you want and you never have to strive. Wishing you all the best !!",
-      name: "Kosala Waruni",
-      title: "BSC Engineering (Hons) UG at University of Ruhuna",
-      img: kosala,
+        "First I like to congratulate your career. You are a good friend that I met in the university. I know you from the school time but we became close friends when we were at the university. Matuared knowledge and the helpfullness is the most special thing I seen from you. I wish you best of luck for your future career.",
+      name: "Harshana Walpita",
+      title: "Senior Software Engineer at IFS",
+      img: harshana,
     },
     {
       id: "feedback-7",
       content:
-        "First of all I like to congratulate you for your new milestone. It was really great time that I worked with you in our school days. He is smart worker who can understand things very fast. I can say he is very good for problem solving as he solve the mathematic questions in school days very fast and efficient way. He is a hard and also smart worker who can do the things in his own way. I wish you very best of luck for your new journey and like to see your great success.",
-      name: "Thilina Dilshan",
-      title: "Software Engineer at Different",
-      img: thilina,
+        "Firstly I would like to congratulate for advancement of your carrere. I had work with him more than 1 year at 'Susipone' instutute as a instructor. He was very clever, organized, keen to learn any thing, very neat and has lot of encouragement to do something. As a person anyone can work with him without any hesitate. He can handle a team in a betterway because he has such a qualities of team leader. Not only that but also he was clever in programming and IT fields. He is one of a such a humble, straightforward , efficient, honest and dedicated team member in my team. At last I just want to wish you best of luck for your new start in journey. In your life may you get what you want and you never have to strive. Wishing you all the best !!",
+      name: "Kosala Waruni",
+      title: "BSC Engineering (Hons) at University of Ruhuna",
+      img: kosala,
     },
     {
       id: "feedback-8",
+      content:
+        "First of all I like to congratulate you for your new milestone. It was really great time that I worked with you in our school days. He is smart worker who can understand things very fast. I can say he is very good for problem solving as he solve the mathematic questions in school days very fast and efficient way. He is a hard and also smart worker who can do the things in his own way. I wish you very best of luck for your new journey and like to see your great success.",
+      name: "Thilina Dilshan",
+      title: "Senior Software Engineer at Different",
+      img: thilina,
+    },
+    {
+      id: "feedback-9",
       content: "Madusanka Nipuanajith is an undergraduate at UCSC reading for a degree in Computer Science. He is a motivated individual with excellent analytical skills and a strong ability to work effectively in a team. Madusanka is always eager to learn and absorbs new information quickly. He is a driven and focused individual who is committed to achieving his goals.",
       title: "Software Engineer at Creative Software",
       name: "Dimuthu Dhanushka",
       img: dimuthu,
     },
     {
-      id: "feedback-9",
+      id: "feedback-10",
       content: "Before I begin, I would like to congratulate you for all the great achievements so far in your life journey. Madushanka is a genuine and humble classmate I met during the A/Ls. He is also a hardworking, energetic and self-motivated person who loves to accept new challenges and is always ready to absorb new knowledge. Apart from studies he was engaged in other extra-curricular activities as well. Finally, wishing you all the best along each step of your journey. Go after your dreams! Make us proud.",
       title: "BSC Engineering (Hons) at University of Moratuwa",
       name: "Thevin Jayasekara",
       img: thevin
     },
     {
-      id: "feedback-10",
+      id: "feedback-11",
       content: "I've had the pleasure of working with Madusanka and he is truly one of the best colleagues I've encountered. He consistently deliver high-quality work on time, and his potential for growth is incredibly exciting.  But what truly sets him apart is his personality. Madusanka is both humble and friendly, fostering a positive and collaborative work environment. His passion for learning new things is inspiring, and his ability to understand and respect others' perspectives makes him a fantastic team player. He is well-organized, dedicated, and a true asset to any team.",
-      title: "Product Specialist at IFS (CIMA/MBA)",
+      title: "Senior Product Specialist at IFS (CIMA/MBA)",
       name: "Govindu Sithila",
       img: govindu
     },
     {
-      id: "feedback-11",
+      id: "feedback-12",
       content: "Madusanka is a young, energetic software engineer who has a visionary sense of the endeavours he is expecting to achieve. He is really passionate and enthusiastic about completing any assigned task effectively and holds responsibility and accountability with integrity. He possesses strong potential and capacity to handle situations of various complexity levels in an efficient manner.",
-      title: "Product Specialist at IFS/ Financials Consultant",
+      title: "Senior Product Specialist at IFS/ Financials Consultant",
       name: "Anuj Bandara",
       img: anuj
     },
     {
-      id: "feedback-12",
+      id: "feedback-13",
       content: "Working with Madusanka has been a real privilege for me. He is truly one of the best colleagues I've ever worked with. He always delivers great work on time and is eager to grow and learn more. What makes Madusanka stand out even more is his personality. He is humble and easy to talk to, which makes our team work together really well. He always wants to learn new things, which encourages all of us to improve. Finally I wish all the very best for his journey",
-      title: "Product Specialist at IFS/ Founder at Rafaella",
+      title: "Senior Product Specialist at IFS/ Founder at Rafaella",
       name: "Nipunika Sooriarachchi",
       img: nipunika
     }
@@ -315,6 +323,12 @@ export const feedback = [
       img: indimemo,
       description:"I was able to obtain the trophy for the best batsman due to the best performance throughout the tournament. It was an amaizing memory in my life and as a team we were able to be the champions in the tournament. Here I would like to thank followings.",
       member:['Organizer of the tournament', 'Nuwan Sameera (C)', 'The Team']
+    },
+    {
+      topic:"Player of the match (MKPL Tournament 2025)",
+      img: mkpl,
+      description:"I was able to obtain the trophy for the player of the match due to the best performance throughout the tournament. It was an unforgettable memory in my life and as a team we were able to be the runners-up in the tournament. Here I would like to thank followings.",
+      member:['Organizer of the tournament', 'K Pramuth Kurera (C)', 'The Team']
     }
 
   ];
@@ -329,14 +343,17 @@ export const feedback = [
       {img: webFunda},
       {img: react},
       {img: php},
-      {img: c}
+      {img: c},
+      {img: ifsBld},
+      {img: ifsWeb},
   ]
 
   export const badges = [
     {img: wso2b},
     {img: javab},
     {img: pythonb},
-    {img: guru}
+    {img: guru},
+    {img: ifsLifeCycle},
   ]
 
   export const emails = [

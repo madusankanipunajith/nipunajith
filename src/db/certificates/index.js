@@ -8,6 +8,9 @@ import react from './react.jpg'
 import sql from './sql.jpg'
 import web from './res-web-dev.jpg'
 import webFunda from './web-dev-fundemental.jpg'
+import ifsBld from './cloud-ifs-bld.png'
+import ifsWeb from './cloud-ifs-web.png'
+import ifsLifeCycle from './ifs-lifecycle.png'
 
 export {
     c,
@@ -19,5 +22,8 @@ export {
     react,
     sql,
     web,
-    webFunda
+    webFunda,
+    ifsBld,
+    ifsWeb,
+    ifsLifeCycle
 };
