@@ -1,7 +1,8 @@
 import { instagram, facebook, linkedin, tiktok, medium, nadeeshaan, dulaj, thilina, kosala, harshana, pathum, thilanka, graduate, engineer, leader, instructor, cricketer, singer, lecturer, bloodbank, git, birthday, email, 
   bEmail, location, siyapatha, badminton, mkpl, ol, chem, acedemic, ontobot, rpc, pp, whether, tms, chat, pathumProduct, dimuthu, 
   wso2b, javab, pythonb, guru, thevin, ifs, prof, uoc,indimemo, govindu, anuj, nipunika, chatura } from "../assets";
-import { c, html, java, js, php, python, react, sql, web, webFunda, ifsBld, ifsWeb, ifsLifeCycle } from "./certificates";
+import { c, html, java, js, php, python, react, sql, web, webFunda, ifsBld, ifsWeb, ifsLifeCycle, ifsWebDeveloper, ifsDataManagement, ifsDevelopment,
+  ifsDataManagementMethodology, ifsDataMigrationTool, ifsExcelMigration } from "./certificates";
 
 export const feedback = [
     {
@@ -354,6 +355,12 @@ export const feedback = [
     {img: pythonb},
     {img: guru},
     {img: ifsLifeCycle},
+    {img: ifsWebDeveloper},
+    {img: ifsDevelopment},
+    {img: ifsDataManagement},
+    {img: ifsDataManagementMethodology},
+    {img: ifsDataMigrationTool},
+    {img: ifsExcelMigration},
   ]
 
   export const emails = [
